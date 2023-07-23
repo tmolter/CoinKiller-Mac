@@ -20,6 +20,7 @@ greaterThan(QT_MAJOR_VERSION, 5) {
 
 TARGET = CoinKiller
 RC_FILE = ck_icon.rc
+ICON = app.icns
 TEMPLATE = app
 
 SOURCES += main.cpp\
